@@ -4,5 +4,4 @@ Informacion de la vulnerabilidad de pobreza monetaria, construccion de la poblac
 
 
 
-![Figura_1](https://user-images.githubusercontent.com/73961653/202849680-070ac7e8-21fd-413f-b2c2-148268c88b52.png)
-
+![Figura_1](https://user-images.githubusercontent.com/73961653/202849883-a6644b90-e9ba-4c5a-8fc1-d0ab7e0607aa.png)
